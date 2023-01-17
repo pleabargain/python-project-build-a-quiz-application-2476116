@@ -1,3 +1,17 @@
+# todo
+* Connect this to an SQL database
+* put in a field to provide feedback on which questions were wrong AND include a reason for why
+* make code less likely to fail if any other file type is in the quizzes folder 
+* * e.g. .txt file is in the folder the script dies :(
+* make it web friendly
+* quiz results do not include the name of the quiz or the questions that were right or wrong
+* read in a YAML file instead of clumsy XML
+* * put it on line
+* explore ways to connect this to chatgpt 
+* * experts evaluate the questions and answers and approve accordingly. Approved Q and A gets loaded into the DB. Rejected answers are pushed back to the GPT algo which probably goes nowhere since the data is not being improved upon in real time.
+
+
+-----------Original------------
 # Python Project: Build a Quiz Application
 This is the repository for the LinkedIn Learning course Python Project: Build a Quiz Application. The full course is available from [LinkedIn Learning][lil-course-url].
 

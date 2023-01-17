@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<QuizML name="Travel Industry">
+    <Question type="multichoice" points="5">
+        <QuestionText answer="3">Which of the following is the most popular travel destination in the world?</QuestionText>
+        <Answer name="1">France</Answer>
+        <Answer name="2">United States</Answer>
+        <Answer name="3">Spain</Answer>
+        <Answer name="4">Australia</Answer>
+    </Question>
+    <Question type="multichoice" points="5">
+        <QuestionText answer="4">What is the primary mode of transportation for most tourists traveling internationally?</QuestionText>
+        <Answer name="1">Car</Answer>
+        <Answer name="2">Bus</Answer>
+        <Answer name="3">Train</Answer>
+        <Answer name="4">Plane</Answer>
+    </Question>
+    <Question type="multichoice" points="5">
+        <QuestionText answer="2">What percentage of travelers book their trips online?</QuestionText>
+        <Answer name="1">10%</Answer>
+        <Answer name="2">50%</Answer>
+        <Answer name="3">70%</Answer>
+        <Answer name="4">90%</Answer>
+    </Question>
+    <Question type="multichoice" points="5">
+        <QuestionText answer="1">What is the most important factor for travelers when choosing a hotel?</QuestionText>
+        <Answer name="1">Price</Answer>
+        <Answer name="2">Location</Answer>
+        <Answer name="3">Amenities</Answer>
+        <Answer name="4">Brand reputation</Answer>
+    </Question>
+    <Question type="multichoice" points="5">
+        <QuestionText answer="3">Which of the following is the fastest growing segment in the travel industry?</QuestionText>
+        <Answer name="1">Luxury travel</Answer>
+        <Answer name="2">Adventure travel</Answer>
+        <Answer name="3">Ecotourism</Answer>
+        <Answer name="4">Cruise travel</Answer>
+    </Question>
+</QuizML>
